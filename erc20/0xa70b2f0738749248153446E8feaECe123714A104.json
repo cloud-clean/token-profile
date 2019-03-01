@@ -1,0 +1,20 @@
+{
+  "symbol": "KTN",
+  "address": "0xa70b2f0738749248153446E8feaECe123714A104",
+  "overview":{
+        "en": "As a blockchain information complex, KTN can check the latest blockchain related news information, activity lines, projects, and airdrops, and make relevant news breaks in the Revelations area. The user provides special messages based on the 'consensus mechanism' and 'implementation backtracking' to achieve universal identification information!",
+        "zh": "BGKTN将成为一个区块链资讯综合体；在这个综合体中，用户可以查阅最新区块链相关新闻资讯、活动行、项目、空投，在爆料区进行相关行情爆料。由用户提供特殊消息，消息以“共识机制”和“落实回溯”为基础，实现全民发布鉴别资讯！"
+  },
+  "email": "service@ktn.world",
+  "website": "http://www.ktn.world",
+  "whitepaper": "http://ktn.oss-cn-hangzhou.aliyuncs.com/image/ktn_en.pdf",
+  "state": "NORMAL",
+  "initial_price":{
+        "USDT":"0.03 USDT"
+  },
+  "links": {
+    "zdent": "https://japan.zdnet.com/release/30298523",
+    "zaikei": "https://www.zaikei.co.jp/releases/757810",
+    "cnet": "https://japan.cnet.com/release/30299062"
+  }
+}
